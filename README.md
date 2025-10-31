@@ -1,2 +1,1 @@
-# clashN
-clashN 下载分享中文官网资源
+# clashN 下载分享中文官网资源
